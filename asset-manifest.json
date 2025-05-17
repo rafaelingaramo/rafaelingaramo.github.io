@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ec788de.css",
+    "main.js": "/static/js/main.94ae2809.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.85aa1170.chunk.js": "/static/js/64.85aa1170.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.ec365245.chunk.js": "/static/js/769.ec365245.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/SulAmerica-Saude-Logo.png": "/static/media/SulAmerica-Saude-Logo.b76198583fabd449b7a2.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/autonation-mobile-services.svg": "/static/media/autonation-mobile-services.1be52ab1d1b73a0078e15d0b37dafd42.svg",
+    "static/media/me.jpeg": "/static/media/me.7268d50850210f3812ab.jpeg",
+    "static/media/anhanguera9201.jpg": "/static/media/anhanguera9201.c83c92cb43443b9b2090.jpg",
+    "static/media/Instituto_IBTA.webp": "/static/media/Instituto_IBTA.65671f95bb1eead09c83.webp",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/software-mind.webp": "/static/media/software-mind.750efc9a3d902e360d61.webp",
+    "index.html": "/index.html",
+    "static/media/cit_logo.webp": "/static/media/cit_logo.9f66ed1e054b6bbf6631.webp",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.7ec788de.css.map": "/static/css/main.7ec788de.css.map",
+    "main.94ae2809.js.map": "/static/js/main.94ae2809.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.85aa1170.chunk.js.map": "/static/js/64.85aa1170.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.ec365245.chunk.js.map": "/static/js/769.ec365245.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec788de.css",
+    "static/js/main.94ae2809.js"
+  ]
+}
